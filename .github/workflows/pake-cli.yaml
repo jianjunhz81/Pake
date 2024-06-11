@@ -36,11 +36,6 @@ on:
         required: false
         type: boolean
         default: false
-      fullscreen:
-        description: '[Full screen, Optional]'
-        required: false
-        type: boolean
-        default: true
       multi_arch:
         description: '[MultiArch, Optional, MacOS only]'
         required: false
